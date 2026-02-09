@@ -103,19 +103,19 @@ $ git log --oneline --graph career
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=proxysoul&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f87171&text_color=c9d1d9&ring_color=a78bfa" height="170" />
+<img src="https://github-readme-stats-proxysoul.vercel.app/api?username=proxysoul&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f87171&text_color=c9d1d9&ring_color=a78bfa" height="170" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proxysoul&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="170" />
+<img src="https://github-readme-stats-proxysoul.vercel.app/api/top-langs/?username=proxysoul&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="170" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=proxysoul&hide_border=true&background=0d1117&ring=a78bfa&fire=f87171&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
+<img src="https://streak-stats.demolab.com/?user=proxysoul&hide_border=true&background=0d1117&ring=a78bfa&fire=f87171&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
 
 <br><br>
 
 ### `ls ~/links`
 
-[![Portfolio](https://img.shields.io/badge/proxysoul.dev-portfolio-a78bfa?style=flat-square&logo=googlechrome&logoColor=white)](https://proxysoul.dev)
+[![Portfolio](https://img.shields.io/badge/proxysoul.com-portfolio-a78bfa?style=flat-square&logo=googlechrome&logoColor=white)](https://proxysoul.com)
 [![LinkedIn](https://img.shields.io/badge/ouailbni-linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ouailbni)
 [![X](https://img.shields.io/badge/@BniWael-twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/BniWael)
 
