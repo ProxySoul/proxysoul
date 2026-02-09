@@ -14,7 +14,9 @@ A proxy between complex problems and elegant solutions — putting my soul into 
 
 ---
 
-### About
+```
+~/ > cat about.md
+```
 
 I'm a full-stack engineer with 6+ years of experience building web and mobile applications. Currently working as a **Frontend Tech Lead at Axis Communications** in Sweden, holding a **Master's in Computer Science** from Malmö University.
 
@@ -22,7 +24,9 @@ I care deeply about clean code, intuitive design, and building things that feel 
 
 ---
 
-### Tech Stack
+```
+~/ > ls tech/
+```
 
 **Languages & Core**
 
@@ -40,6 +44,7 @@ I care deeply about clean code, intuitive design, and building things that feel 
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TanStack Start](https://img.shields.io/badge/TanStack_Start-EF4444?style=flat-square&logo=reactquery&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
@@ -54,6 +59,13 @@ I care deeply about clean code, intuitive design, and building things that feel 
 ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
+**AI & LLMs**
+
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Model Context Protocol](https://img.shields.io/badge/MCP_SDK-D97757?style=flat-square&logo=claude&logoColor=white)
+
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
@@ -67,18 +79,6 @@ I care deeply about clean code, intuitive design, and building things that feel 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
-**AI & ML**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-
-**Tools**
-
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Kitty](https://img.shields.io/badge/Kitty-000000?style=flat-square&logo=gnometerminal&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
 **Game Dev**
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
@@ -86,9 +86,64 @@ I care deeply about clean code, intuitive design, and building things that feel 
 
 ---
 
+```
+~/ > cat setup.conf
+```
+
+<table>
+  <tr>
+    <td><b>Editor</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
+      <code>NeoSolarized</code> · <code>blink.cmp</code> · <code>Copilot</code> · <code>CodeCompanion</code> · <code>Treesitter</code> · <code>Mason</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Terminal</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Kitty-000000?style=flat-square&logo=gnometerminal&logoColor=white" />
+      <code>JetBrains Mono Nerd Font</code> · <code>opacity: 0.85</code> · <code>ligatures: on</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Window Manager</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/yabai-000000?style=flat-square&logo=apple&logoColor=white" />
+      <code>bsp layout</code> · <code>skhd</code> · <code>SketchyBar</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Keybinds</b></td>
+    <td>
+      <code>CapsLock → Escape</code> · <code>CapsLock + hold → Ctrl</code> · <code>vim nav everywhere</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Design</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Dotfiles</b></td>
+    <td>
+      <a href="https://github.com/Pouiiro/PouiiT-Files">
+        <img src="https://img.shields.io/badge/PouiiT--Files-8B5CF6?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 <div align="center">
 
-### GitHub Stats
+```
+~/ > git stats
+```
+
+<br>
 
 <img src="https://github-readme-stats-rouge-ten-64.vercel.app/api?username=proxysoul&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=EF4444&text_color=888888&ring_color=8B5CF6" height="170" />
 &nbsp;
