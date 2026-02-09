@@ -103,9 +103,9 @@ $ git log --oneline --graph career
 
 <br>
 
-<img src="https://github-readme-stats-proxysoul.vercel.app/api?username=proxysoul&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f87171&text_color=c9d1d9&ring_color=a78bfa" height="170" />
+<img src="https://github-readme-stats-rouge-ten-64.vercel.app/api?username=proxysoul&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f87171&text_color=c9d1d9&ring_color=a78bfa" height="170" />
 &nbsp;
-<img src="https://github-readme-stats-proxysoul.vercel.app/api/top-langs/?username=proxysoul&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="170" />
+<img src="https://github-readme-stats-rouge-ten-64.vercel.app/api/top-langs/?username=proxysoul&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="170" />
 
 <br><br>
 
