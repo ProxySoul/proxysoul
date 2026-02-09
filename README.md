@@ -20,7 +20,7 @@ A proxy between complex problems and elegant solutions — putting my soul into 
 
 I'm a full-stack engineer with 6+ years of experience building web and mobile applications. Currently working as a **Frontend Tech Lead at Axis Communications** in Sweden, holding a **Master's in Computer Science** from Malmö University.
 
-I care deeply about clean code, intuitive design, and building things that feel good to use. From high-performance web apps to mobile experiences and AI tooling — if it exists, I can learn it.
+Clean code, intuitive design, and things that feel good to use. From high-performance web apps to mobile experiences and AI tooling — if it exists, I can learn it.
 
 ---
 
